@@ -1,0 +1,79 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+<channel>
+    <title>Sampa-Rio</title>
+    <link>https://mythicallab.com.br</link>
+    <description>Vamos acompanhar a história de Vitor Monzanni, codinome: "Monza", o maior motorista ilegal de Sampa - Rio. Em seu último trabalho recebeu a missão de sumir com uma androide proibida no Brasil, mas as coisas se complicam quando ele descobre que a robô carrega um segredo revolucionário.</description>
+    <language>pt-br</language>
+    
+    <itunes:author>Mythical Lab</itunes:author>
+    
+    <itunes:owner>
+        <itunes:email> henrique.ojeda@outlook.com </itunes:email>
+    </itunes:owner>
+
+    <itunes:explicit>Yes</itunes:explicit>
+    
+    <itunes:category text="Arts"/>
+    
+    <itunes:image
+        href="https://mythicallab.com.br/img/girlspotify.png" />
+
+    <item>
+        <guid isPermaLink="false">53D7E173-F340-4CF6-B37D-CEAA4BF69B63</guid>
+        <title>#1 Sampa-Rio: O Convite</title>
+        <itunes:image href="https://mythicallab.com.br/img/girlspotify.png" />
+        <pubDate>Wed, 14 Nov 2019 14:33:00 +0000</pubDate>
+        <itunes:keywords>cyberpunk, audiodrama</itunes:keywords>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>13:09</itunes:duration>
+        <link>https://mythicallab.com.br</link>
+        <description>Monza é contratado de última hora para realizar uma corrida na maior torre de Sampa - Rio. O que deveria ser algo simples, rapidamente se complica quando ele descobre o que está transportando e para quem está trabalhando.</description>
+ 
+        <enclosure
+        url="https://mythicallab.com.br/audio/srspotify.mp3" length="23772553" type="audio/mpeg" />
+
+    </item>
+
+
+    <item>
+        <guid isPermaLink="false">4a33ba7b-4351-46d8-a4c9-7d369d29758a</guid>
+        <title>#2 Sampa-Rio: A.L.U.</title>
+        <itunes:image href="https://mythicallab.com.br/img/carspotify.png" />
+        <pubDate>Sat, 11 Jan 2020 10:12:00 +0000</pubDate>
+        <itunes:keywords>cyberpunk, audiodrama</itunes:keywords>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>19:00</itunes:duration>
+        <link>https://mythicallab.com.br</link>
+        <description>Após a confusão nas rodovias de Sampa – Rio Monza recupera o pacote e o leva para a oficina. Lá ele percebe que o trabalho que pegou é muito mais complicado do que imaginava, junto com Doca ele tenta bolar um plano que o ajude a se livrar do androide misterioso.</description>
+ 
+        <enclosure
+        url="https://mythicallab.com.br/audio/sr2spotify.mp3" length="28664042" type="audio/mpeg" />
+
+    </item>
+
+        <item>
+        <guid isPermaLink="false">FCE72378-8D04-4240-BA89-5A995F0C4898</guid>
+        <title>#3 Sampa-Rio: A Gravação</title>
+        <itunes:image href="https://mythicallab.com.br/img/capa3.png" />
+        <pubDate>Fri, 24 Apr 2020 18:12:00 +0000</pubDate>
+        <itunes:keywords>cyberpunk, audiodrama</itunes:keywords>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:duration>25:47</itunes:duration>
+        <link>https://mythicallab.com.br</link>
+        <description>Encurralados, Monza e A. L. U. procuram uma forma de sumir, só que ambos sabem que não vai ser tão fácil fugir do Português e nem da Primeira – Ministra, o motorista ilegal bola um plano para que eles consigam sair dessa com vida, mas isso não quer dizer que eles vão conseguir...</description>
+ 
+        <enclosure
+        url="https://mythicallab.com.br/audio/ep3.mp3" length="37147514" type="audio/mpeg" />
+
+    </item>
+
+
+    
+
+
+
+</channel>
+
+</rss>
